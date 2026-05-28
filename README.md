@@ -33,12 +33,6 @@ Add your app screenshots here after running the project:
 - Business insights: [assets/screenshots/bussinessInsights.png](assets/screenshots/bussinessInsights.png)
 - Segmentation: [assets/screenshots/segmentation.png](assets/screenshots/segmentation.png)
 
-## Demo Link
-
-Add your hosted demo link here once it is available:
-
-- Demo: [replace with your live demo URL](https://example.com)
-
 ## Project Structure
 
 ```text

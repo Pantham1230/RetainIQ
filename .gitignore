@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Notebook
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local generated artifacts
+logs/
+*.log
